@@ -1,0 +1,4 @@
+dn: uid=nlory-ma, ou=2013, ou=people, dc=42, dc=fr
+changetype:modify
+update:mobile-phone
+mobile-phone:0659238084

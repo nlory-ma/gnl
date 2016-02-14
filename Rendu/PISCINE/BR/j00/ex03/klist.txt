@@ -1,0 +1,8 @@
+Credentials cache: API:6642
+        Principal: nlory-ma@42.FR
+
+  Issued                Expires               Principal
+Jul  1 09:57:45 2014  Jul  1 19:57:45 2014  krbtgt/42.FR@42.FR
+Jul  1 09:57:52 2014  Jul  1 19:57:45 2014  nfs/zfs-student-1.42.fr@42.FR
+Jul  1 09:57:53 2014  Jul  1 19:57:45 2014  nfs/zfs-student-3.42.fr@42.FR
+Jul  1 10:25:29 2014  Jul  1 19:57:45 2014  host/vogsphere-frontend-normal-1.42.fr@42.FR
